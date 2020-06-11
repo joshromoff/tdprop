@@ -1,6 +1,6 @@
 # TDprop
 
-```We based our code off of [ikostrikov's pytorch-rl repo](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr). ```
+We based our code off of [ikostrikov's pytorch-rl repo](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr). 
 
 ## Installation
 
