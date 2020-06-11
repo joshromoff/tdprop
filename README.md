@@ -12,9 +12,11 @@
 ```pip install gym[atari] ```
 
 ### Baselines for Atari preprocessing
-``` git clone https://github.com/openai/baselines.git ```
-``` cd baselines ```
-``` pip install -e . ```
+``` 
+git clone https://github.com/openai/baselines.git 
+cd baselines 
+pip install -e . 
+```
 
 ### Backpack for TDprop
 ``` pip install backpack-for-pytorch  ``` 
