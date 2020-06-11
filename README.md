@@ -1,19 +1,6 @@
 # TDprop
 
-```
-
-We based our code off of [ikostrikov's pytorch-rl repo](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr). 
-
-```
-@misc{pytorchrl,
-  author = {Kostrikov, Ilya},
-  title = {PyTorch Implementations of Reinforcement Learning Algorithms},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ikostrikov/pytorch-a2c-ppo-acktr}},
-}
-```
+```We based our code off of [ikostrikov's pytorch-rl repo](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr). ```
 
 ## Installation
 
